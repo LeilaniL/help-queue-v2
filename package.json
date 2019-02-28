@@ -6,7 +6,11 @@
   "scripts": {
     "lint": "eslint src/** src/**/**; exit 0",
     "lint-fix": "eslint src/** src/**/** --fix; exit 0",
+<<<<<<< HEAD
     "test": "jest && exit 0",
+=======
+    "test": "jest; exit 0",
+>>>>>>> 3_2b_combining_reducers_in_react
     "start": "webpack-dev-server"
   },
   "repository": {
@@ -27,7 +31,11 @@
     "react-redux": "^5.0.6",
     "react-router-dom": "^4.0.0",
     "redux": "^3.7.2",
+<<<<<<< HEAD
     "uuid": "^3.3.2"
+=======
+    "uuid": "^3.2.1"
+>>>>>>> 3_2b_combining_reducers_in_react
   },
   "devDependencies": {
     "babel-core": "^6.24.1",
