@@ -22,11 +22,7 @@ class App extends React.Component {
   componentDidMount() {
     this.waitTimeUpdateTimer = setInterval(() =>
       this.updateTicketElapsedWaitTime(),
-<<<<<<< HEAD
       60000
-=======
-    60000
->>>>>>> 3_2b_combining_reducers_in_react
     );
   }
 

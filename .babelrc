@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "env": {
         "development": {
             "plugins": [
@@ -13,14 +12,3 @@
         }
     }
 }
-=======
-  "env": {
-  	"development": {
-  		"plugins": ["transform-es2015-modules-commonjs"]
-  	},
-  	"test": {
-  		"plugins": ["transform-es2015-modules-commonjs"]
-  	}
-  }
-}
->>>>>>> 3_2b_combining_reducers_in_react
